@@ -1,0 +1,45 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DPosFunctionTool
+</name>
+</assembly>
+<members>
+<member name="T:DPosFunctionTool.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DPosFunctionTool.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DPosFunctionTool.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:DPosFunctionTool.modGlobal.GetMacAddress">
+ <summary>
+ This function gets the mac address of the current computer.
+ </summary>
+ <returns>a string containing the mac address of the current computer.</returns>
+</member>
+<member name="M:DPosFunctionTool.modGlobal.GetMacAddressOfIPEnabled">
+ <summary>
+ This function gets the mac address of the current adapter that is enabled when the ethernet adapter is not present.
+ </summary>
+ <returns>a string containing the mac address of the current computer.</returns>
+</member>
+<member name="M:DPosFunctionTool.modGlobal.GetSHA256(System.String)">
+ <summary>
+ Hashes the given string using SHA256 encryption.
+ </summary>
+ <param name="sData">The string to be hashed.</param>
+ <returns>the string hashed using SHA256 encryption.</returns>
+</member>
+</members>
+</doc>

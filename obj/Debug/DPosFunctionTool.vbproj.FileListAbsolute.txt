@@ -1,0 +1,12 @@
+D:\~Sandbox\VB\DPosFunctionTool\bin\Debug\DPosFunctionTool.exe.config
+D:\~Sandbox\VB\DPosFunctionTool\bin\Debug\DPosFunctionTool.exe
+D:\~Sandbox\VB\DPosFunctionTool\bin\Debug\DPosFunctionTool.pdb
+D:\~Sandbox\VB\DPosFunctionTool\bin\Debug\DPosFunctionTool.xml
+D:\~Sandbox\VB\DPosFunctionTool\obj\Debug\DPosFunctionTool.frmMain.resources
+D:\~Sandbox\VB\DPosFunctionTool\obj\Debug\DPosFunctionTool.Resources.resources
+D:\~Sandbox\VB\DPosFunctionTool\obj\Debug\DPosFunctionTool.vbproj.GenerateResource.cache
+D:\~Sandbox\VB\DPosFunctionTool\obj\Debug\DPosFunctionTool.vbproj.CoreCompileInputs.cache
+D:\~Sandbox\VB\DPosFunctionTool\obj\Debug\DPosFunctionTool.exe
+D:\~Sandbox\VB\DPosFunctionTool\obj\Debug\DPosFunctionTool.xml
+D:\~Sandbox\VB\DPosFunctionTool\obj\Debug\DPosFunctionTool.pdb
+D:\~Sandbox\VB\DPosFunctionTool\obj\Debug\DPosFunctionTool.vbprojAssemblyReference.cache
